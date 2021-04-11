@@ -1,0 +1,40 @@
+# SIC - Assembler
+### Supported Directives
+* START
+* END
+* RESW
+* RESB
+* WORD
+* BYTE
+### Supported Operations
+* ADD
+* ADDR
+* COMP
+* COMPR
+* DIV
+* DIVR
+* J
+* JEQ
+* JGT
+* JLT
+* JSUB
+* LDA
+* LDCH
+* LDS
+* LDT
+* LDL
+* LDX
+* RSUB
+* STA
+* STL
+* STCH
+* STS
+* STT
+* STX
+* SUB
+* SUBR
+* TD
+* RD
+* WR
+* TIX
+* TIXR
